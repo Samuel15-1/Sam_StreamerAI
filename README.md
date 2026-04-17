@@ -41,3 +41,5 @@ The main components of the StreamerAI application include:
 1. Start main script `poetry run start --room_id 'room id here'
 2. `poetry run fake --room_id 'room_id_here'`
 3. Type in some comments and see the AI respond
+4. Sam is awesome
+   
